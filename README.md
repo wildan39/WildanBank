@@ -1,0 +1,3 @@
+# WildanBank
+A place where your money meets another money...
+This is my another project creating websites for bank which in this case, the bank is my bank and have couples of account type to choose, each account type has their different type of profit.
